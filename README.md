@@ -1,13 +1,16 @@
 👋 Hi, I'm Mohamed Tamer, a Junior Data Analyst and Backend Developer. I'm currently a Computer Science student with a passion for backend development and data analysis.
 
+# My GitHub Profile
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn"/>
-  </a>
+  <img src="[https://raw.githubusercontent.com/your-username/your-repository/main/assets/profile-picture.jpg](https://github.com/Mohamed-Tamer-1/Mohamed-Tamer-1/blob/main/logo%20transparent.png)" alt="Profile Picture" width="200"/>
 </p>
 
-![My Profile Picture](https://github.com/Mohamed-Tamer-1/Mohamed-Tamer-1/blob/main/logo%20transparent.png)
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-tamer-9ba122298/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn" width="150"/>
+  </a>
+</p>
 
 🔧 Skills:
 
