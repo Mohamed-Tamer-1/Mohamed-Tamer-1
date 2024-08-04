@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn" width="150"/>
   </a>
   <a href="https://mohamed-tamer-1.github.io/MT.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-Visit-green" alt="Website" width="150"/>
+    <img src="https://camo.githubusercontent.com/64b9554773ad4b5b86e58ae676365902a43821e4769a36c65263ec2557c41c87/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f727466696f6c6f2d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d626c6f67266c6f676f436f6c6f723d7768697465" alt="Website" width="150"/>
   </a>
 </p>
 
