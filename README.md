@@ -1,9 +1,8 @@
 👋 Hi, I'm Mohamed Tamer, a Junior Data Analyst and Backend Developer. I'm currently a Computer Science student with a passion for backend development and data analysis.
 
-# My GitHub Profile
 
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/your-username/your-repository/main/assets/profile-picture.jpg](https://github.com/Mohamed-Tamer-1/Mohamed-Tamer-1/blob/main/logo%20transparent.png)" alt="Profile Picture" width="200"/>
+  <img src="https://github.com/Mohamed-Tamer-1/Mohamed-Tamer-1/blob/main/logo%20transparent.png" alt="Profile Picture" width="200"/>
 </p>
 
 <p align="center">
