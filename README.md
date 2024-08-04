@@ -2,14 +2,15 @@
 
 
 <p align="center">
-  <img src="https://github.com/Mohamed-Tamer-1/Mohamed-Tamer-1/blob/main/logo%20transparent.png" alt="Profile Picture" width="200"/>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/mohamed-tamer-9ba122298/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn" width="150"/>
   </a>
 </p>
+
+<p align="center">
+  <img src="https://github.com/Mohamed-Tamer-1/Mohamed-Tamer-1/blob/main/logo%20transparent.png" alt="Profile Picture" width="500"/>
+</p>
+
 
 🔧 Skills:
 
