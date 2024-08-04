@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 Hi, I'm Mohamed Tamer, a Junior Data Analyst and Backend Developer. I'm currently a Computer Science student with a passion for backend development and data analysis.
 
-<!--
-**Mohamed-Tamer-1/Mohamed-Tamer-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Skills:
 
-Here are some ideas to get you started:
+• Excel, Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• Python, JavaScript
+
+• HTML ,CSS
+
+• SQL
+
+I'm eager to learn and grow in the fields of backend development and data analysis. Let's connect and collaborate on exciting projects!
