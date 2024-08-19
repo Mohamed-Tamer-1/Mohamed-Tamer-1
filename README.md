@@ -19,7 +19,7 @@
 
 • Excel, Power BI
 
-• Python, JavaScript
+• Python, JavaScript, Flutter
 
 • HTML ,CSS
 
