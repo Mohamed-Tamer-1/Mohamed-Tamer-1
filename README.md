@@ -1,4 +1,4 @@
-👋 Hi, I'm Mohamed Tamer, a Junior Data Analyst and Full-Stack Developer. I'm currently a Computer Science student with a passion for Full-Stack Development and Data Analysis.
+👋 Hi, I'm Mohamed Tamer, a Junior Data Analyst and Front-End Developer. I'm currently a Computer Science student with a passion for Full-Stack Development and Data Analysis.
 
 
 <p align="center">
